@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicketBookingSystem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LoginText">Login Screen</string>
+    <string name="UsernameText">User Name</string>
+    <string name="passwordText">Password</string>
+    <string name="LoginButton">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="RegistrationHeading">Registration Screen</string>
+    <string name="title_activity_book_ticket">BookTicket</string>
+    <string name="title_activity_show_all_booking">ShowAllBooking</string>
+</resources>
